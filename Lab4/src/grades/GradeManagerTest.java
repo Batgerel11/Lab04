@@ -10,6 +10,7 @@ class GradeManagerTest {
 	@Test
 	void GradeManagerTesting() {
 		GradeManager gm = new GradeManager();
+		
 		try 
 		{
 			gm.addGrade("a", "100");
