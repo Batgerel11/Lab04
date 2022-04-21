@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.HashMap;
-//lab-04   
+//lab-04     
 public class GradeManager 
 {
 	
@@ -83,12 +83,6 @@ public class GradeManager
 		}
 		return sb.toString();
 	}
-	
-	
-	
-	
-	
-	
 	
 	
 	
